@@ -5,6 +5,12 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
+function challenge(){
+  window.open("https://docs.google.com/forms/d/e/1FAIpQLScjj9jkU4cWbxVLirtSuO9we3VEZq2NGf3LN22JgFICnrU8Ow/viewform?embedded=true")
+}
+function register(){
+  window.open("https://docs.google.com/forms/d/e/1FAIpQLScHtgIuA7EJ1v6U9mvtJBJZby-6iBtx470bm-f9lWM_s3gNhw/viewform?usp=sf_link")
+}
 (function() {
   "use strict";
 
