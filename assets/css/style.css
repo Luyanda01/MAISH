@@ -508,7 +508,6 @@ h6 {
 # Sections General
 --------------------------------------------------------------*/
 section {
-  padding: 60px 0;
   overflow: hidden;
 }
 
@@ -1068,7 +1067,7 @@ section {
 --------------------------------------------------------------*/
 .team {
   background: #fff;
-  padding: 60px 0;
+  /* padding: 60px 0; */
 }
 
 .team .member {
@@ -1082,6 +1081,10 @@ section {
 .team .member .member-img {
   position: relative;
   overflow: hidden;
+}
+
+.member-img{
+  height: 350px;
 }
 
 .team .member .social {
@@ -1121,6 +1124,12 @@ section {
 
 .team .member .member-info {
   padding: 25px 15px;
+  height: 100px;
+}
+
+.member-img img{
+  height: 90%;
+  width: 100%;
 }
 
 .team .member .member-info h4 {
